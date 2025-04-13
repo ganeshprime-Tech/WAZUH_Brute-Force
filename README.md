@@ -4,4 +4,8 @@ Using #sudo hydra -l root -p /usr/share/wordlists/rockyou.txt ssh://192.168.249.
 
 
 ![image](https://github.com/user-attachments/assets/495c6668-39e5-40c9-879b-924799d5b7c7)
+
+
+now the alert triggered 
+
 ![image](https://github.com/user-attachments/assets/d00a408a-dd7a-4e29-9686-a033b0aed607)
